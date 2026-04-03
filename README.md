@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Advanced JavaScript & Spring Boot**
-- 👨‍💻 Check out my projects 👉 [Portfolio](https://github.com/Akrwt-dev)
 - 💬 Ask me about **React, Node.js, JavaScript, Git & GitHub**
 - 🎨 Fun fact: *I mix creativity with code to build cool things*
 
