@@ -50,6 +50,7 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/Akrwt-dev/Akrwt-dev/output/github-contribution-grid-snake.svg" />
 
 ### 📊 GitHub Stats
 <p align="center">
